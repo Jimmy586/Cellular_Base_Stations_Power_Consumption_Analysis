@@ -4,7 +4,7 @@ Before running the source code, the following steps are to be completed:
 
 * Firstly, three new folders should be created within the code directory. The first should be named as "ANFR Dataset", the second should be "Pre-processed data" and the last one should be "Graphs".
 * Within the 'ANFR Dataset' folder, the entire ANFR dataset is to be placed. The dataset including the data and the reference files can be downloaded from the dataset website. The downloading process is tedious as the files for each month needs to be downloaded one by one.
-* There are a few mistakes in the downloaded files from the ANFR website. Hence, for specific month's files, the following should be done manually:
+* There are a few mistakes in the downloaded files from the ANFR website. here are some examples of them
     * **April 2022**: In the folder name, 2023 should be changed to 2022.
     * **May 2018**: The date format should be changed from 31052018 to 20180531 in the folder names.
     * **March 2018**: The data and reference folders are within the same folder so they should be separated.
