@@ -4,7 +4,7 @@
   To do this we were equiped with the open-source from ANFR to estimate the power consumed by BS in France and then analyse the key factor influencing these consumptions, and then design approaches to save energy in a seamless way without too much affecting the QOS.
 
 ## PART 1 :  POWER USAGE ESTIMATION
-This part is about Power usage estimation and analysis on cellular base stations in France, the dataset was taken from ANFR website for the 4giant  Telecom companies based in france (oRANGE, SFR, BOUYGUES, FREE)
+This part is about Power usage estimation and analysis on cellular base stations in France, the dataset was taken from ANFR website for the 4giant  Telecom companies based in france (ORANGE, SFR, BOUYGUES, FREE)
 Before running the source code, the following steps are to be completed:
 
 * Firstly, three new folders should be created within the code directory. The first should be named as "ANFR Dataset", the second should be "Pre-processed data" and the last one should be "Graphs".
